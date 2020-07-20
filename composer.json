@@ -1,0 +1,14 @@
+{
+    "name": "baraveli/airline-http-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Jinas",
+            "email": "j@live.mv"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    }
+}

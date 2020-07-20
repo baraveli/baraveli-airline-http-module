@@ -1,5 +1,6 @@
 {
     "name": "baraveli/airline-http-module",
+    "description": "HTTP Flight API module for baraveli airlines.",
     "license": "MIT",
     "authors": [
         {

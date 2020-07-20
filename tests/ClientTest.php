@@ -21,6 +21,7 @@ class ClientTest extends TestCase
         $response = $client->get("http://www.fis.com.mv/xml/arrive.xml");
 
         $this->assertIsArray($response);
+        $this->assertIsArray($response["Flight"]);
     }
 
      /** @test */
